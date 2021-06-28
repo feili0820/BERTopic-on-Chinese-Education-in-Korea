@@ -49,19 +49,19 @@ Parameters setout| |n_gram_range|(1,1)
 
 ### visualization of results
 
-[Total](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/SenMa_all.html "Total")
+[Total](./plots/SenMa_all.html "Total")
 
-[Hackers](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/figa_Hackers.html "Hackers")
+[Hackers](./plots/figa_Hackers.html "Hackers")
 
-[Munza](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/figa_Munza.html "Munza")
+[Munza](./plots/figa_Munza.html "Munza")
 
-[Caihong](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/figa_caihong.html "Caihong")
+[Caihong](./plots/figa_caihong.html "Caihong")
 
-[Kongzi](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/figa_kongzi.html "Kongzi")
+[Kongzi](.plots/figa_kongzi.html "Kongzi")
 
-[Sisa](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/figa_sisa.html "Sisa")
+[Sisa](./plots/figa_sisa.html "Sisa")
 
-[Haksp](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/plots/figa_Haksp.html "Haksp")
+[Haksp](./plots/figa_Haksp.html "Haksp")
 
 
 
