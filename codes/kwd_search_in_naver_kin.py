@@ -113,7 +113,7 @@ if __name__ == '__main__':
     path = r".\geckodriver.exe"
     is_tor = False
     driver = firefox_dirver(path, is_tor)
-    kwd = '중국어'
+    kwd = 'keyword'
     start_time, end_time = (2010,1,1), (2010,2,1)
     url = get_url(kwd, start_time, end_time)
     page_url = search_pages(kwd, url, page_index=1)
