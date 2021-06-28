@@ -110,6 +110,6 @@ if __name__ == '__main__':
     results = get_text(page_url)
     
     import pickle
-    with open(r'.\keyword_results.txt', 'wb') as f:
+    with open(r'./keyword_results.txt', 'wb') as f:
         pickle.dump(results, f)
 
