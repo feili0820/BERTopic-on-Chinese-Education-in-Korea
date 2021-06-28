@@ -48,22 +48,24 @@ Parameters setout| |n_gram_range|(1,1)
 3 keywords Extraction|get_topic_info() & get_topics()| 	　	
 
 ### visualization of results
-* topics of Total
-[Total](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/total.PNG "Total")
-* topics of Hackers
-[Hackers](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/hackers.PNG "Hackers")
-* topics of Moon-Jeonga
-[Munza](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/munza.PNG "Munza")
-* topics of Caihong
-[Caihong](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/caihong.PNG "Caihong")
-* topics of Confucius Institute
-[Kongzi](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/kongzi.PNG "Kongzi")
-* topics of Sisa
-[Sisa](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/sisa.PNG "Sisa")
-* topics of HakSeupji
-[Haksp](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/haksp.PNG "Haksp")
+* __topics of Total__ <br> <br>
+![Total](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/total.PNG "Total") <br>
+* __topics of Hackers__ <br> <br>
+![Hackers](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/hackers.PNG "Hackers") <br>
+* __topics of Moon-Jeonga__ <br> <br>
+![Munza](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/munza.PNG "Munza") 
+* __topics of Caihong__ <br> <br>
+![Caihong](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/caihong.PNG "Caihong")
+* __topics of Confucius Institute__ <br> <br>
+![Kongzi](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/kongzi.PNG "Kongzi")
+* __topics of Sisa__ <br> <br>
+![Sisa](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/sisa.PNG "Sisa")
+* __topics of HakSeupji__ <br> <br>
+![Haksp](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/haksp.PNG "Haksp")
+* __topics over time__ <br> <br>
+![Topics Over Time](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/topics%20over%20time.PNG "Topics Over Time")
+For more details, to see the plot list below. <br>
 
-<br>
 plot name|type|link
 :---:|:---:|:---:
 total(original)|"html"|[Total](./plots/SenMa_all.html "to Total")
@@ -74,7 +76,6 @@ Kongzi(original)|"html"|[Kongzi](.plots/figa_kongzi.html "Kongzi")
 Sisa(original)|"html"|[Sisa](./plots/figa_sisa.html "Sisa")
 Haksp(original)|"html"|[Haksp](./plots/figa_Haksp.html "Haksp")
 
-
-
-
+## Citaion
+Peng W. & Li F., (2021). A Practical Text-Mining Research on Representative Institutions of Chinese Education in South Korea with Naver Knowledge-in Q&A data Based on BERTopic.
 
