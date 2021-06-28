@@ -1,4 +1,4 @@
-# BERTopic-on-Chinese-Education-in-Korea
+# BERTopic on Chinese Language Education in South Korea
 ## Abstract
 After a long-time intricate process of development, Chinese education in South Korea has gradually reached a new boom time in recent decades with the emergence of numerous private foreign language institutions. In order to fully understand the reasons and motivations behind this boom, this paper collected more than 10,000 pieces of Q&A records on Chinese learning and private language training institutions that have appeared on the NAVER knowledge-IN platform over the past decade, and presented an empirical study through a new topic classification model called "BERTopic" based on those data. After analyzing the difference in topics between the local and imported private educational institutions, this paper found that although the overall demand for Chinese language learning in Korean society was increasing, the difference in demand between different groups was also very obvious. Therefore, in order to achieve sustainable development of Chinese education in South Korea, the basic concept of “localizing development” should be taken into account.
 
