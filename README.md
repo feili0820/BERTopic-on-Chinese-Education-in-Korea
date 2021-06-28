@@ -48,20 +48,31 @@ Parameters setout| |n_gram_range|(1,1)
 3 keywords Extraction|get_topic_info() & get_topics()| 	　	
 
 ### visualization of results
+* topics of Total
+[Total](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/total.PNG "Total")
+* topics of Hackers
+[Hackers](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/hackers.PNG "Hackers")
+* topics of Moon-Jeonga
+[Munza](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/munza.PNG "Munza")
+* topics of Caihong
+[Caihong](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/caihong.PNG "Caihong")
+* topics of Confucius Institute
+[Kongzi](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/kongzi.PNG "Kongzi")
+* topics of Sisa
+[Sisa](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/sisa.PNG "Sisa")
+* topics of HakSeupji
+[Haksp](https://github.com/feili0820/BERTopic-on-Chinese-Education-in-Korea/blob/main/pictures/haksp.PNG "Haksp")
 
-[Total](./plots/SenMa_all.html "Total")
-
-[Hackers](./plots/figa_Hackers.html "Hackers")
-
-[Munza](./plots/figa_Munza.html "Munza")
-
-[Caihong](./plots/figa_caihong.html "Caihong")
-
-[Kongzi](.plots/figa_kongzi.html "Kongzi")
-
-[Sisa](./plots/figa_sisa.html "Sisa")
-
-[Haksp](./plots/figa_Haksp.html "Haksp")
+<br>
+plot name|type|link
+:---:|:---:|:---:
+total(original)|"html"|[Total](./plots/SenMa_all.html "to Total")
+Hackers(original)|"html"|[Hackers](./plots/figa_Hackers.html "Hackers")
+Munza(original)|"html"|[Munza](./plots/figa_Munza.html "Munza")
+Caihong(original)|"html"|[Caihong](./plots/figa_caihong.html "Caihong")
+Kongzi(original)|"html"|[Kongzi](.plots/figa_kongzi.html "Kongzi")
+Sisa(original)|"html"|[Sisa](./plots/figa_sisa.html "Sisa")
+Haksp(original)|"html"|[Haksp](./plots/figa_Haksp.html "Haksp")
 
 
 
