@@ -13,7 +13,8 @@ After a long-time intricate process of development, Chinese education in South K
 * The next step is to clean and reorganize all the texts. The specific cleaning process includes: deleting informal characters, spelling check on Korean expressions , merging valid paragraphs, and so on.
 * Clean and reorganize all the text data parts. The specific cleaning process includes: deleting informal language characters, spelling and proofreading for Korean parts, merging valid paragraphs, and so on. 
 * Finally, the cleaned data are resaved as a suitable dataset for model training, of which the individual text is separately documented with specific indexes based on “keyword(the name of private language training institutions)”.
-<br>
+</br>
+
 Keyword|Numbers of questions|Numbers of page views|Category of Origin
 :---:|:---:|:---:|:---:
 Sisa (시사)|1408|1420551|Korean
@@ -35,7 +36,8 @@ Gumon(구몬)|226|184430|Korean
     * Parameter Tuning: Adjusting the local parameters used in training the topic models, including: Pre-trained language model for text embedding, topic merging method, minimum of topic size and range of representative keywords, etc.
     * Visualization: Mapping the trained topic models into the binary space to facilitate the further classifications and explanations with human subjective judgment.
     * Keywords extraction: after the training of the model, filtering out 15 most significantly related keywords of each subdivided topic and listing them for the follow-up analysis.
-<br>
+</br>
+
 Stages|Main Functions|Key Parameters|values
 :---:|:---:|:---:|:---:
 Parameters setout|BERTopic() & fit_transform()|embedding_model|"distiluse-base-multilingual-cased-v1" 
