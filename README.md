@@ -79,5 +79,5 @@ Sisa(original)|"html"|[Sisa](./plots/figa_sisa.html "Sisa")
 Haksp(original)|"html"|[Haksp](./plots/figa_Haksp.html "Haksp")
 
 ## Citation
-Peng W. & Li F., (2021). A Practical Text-Mining Research on Representative Institutions of Chinese Education in South Korea with Naver Knowledge-in Q&A data Based on BERTopic.
+
 
